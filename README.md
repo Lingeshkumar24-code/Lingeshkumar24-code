@@ -1,117 +1,173 @@
-# Hi 👋, I'm Lingesh Kumar M
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Lingesh%20Kumar&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=MCA%20(Generative%20AI)%20%7C%20AI%20Developer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Full%20Stack&descAlignY=58&descSize=20"/>
+</p>
 
-### 🚀 Generative AI & Machine Learning Developer | Full-Stack Developer | MCA (Generative AI)
+<h1 align="center">Hi 👋, I'm Lingesh Kumar</h1>
 
-Passionate about building intelligent AI applications that solve real-world problems. I enjoy working with Large Language Models (LLMs), Machine Learning, Retrieval-Augmented Generation (RAG), AI Agents, and modern Full-Stack technologies to create scalable and impactful solutions.
+<h3 align="center">
+Artificial Intelligence • Machine Learning • Generative AI • Full Stack Developer
+</h3>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 MCA (Generative AI) Student
-- 🤖 Passionate about Generative AI, Machine Learning & AI Agents
-- 🌱 Currently exploring Multi-Agent AI Systems, RAG & LLM Applications
-- 💻 Full-Stack Developer (React, Node.js, Python, Flask)
-- 🚀 Building AI-powered applications for education, productivity, and automation
-- 📍 Bengaluru, India
-- 💬 Ask me about AI, Machine Learning, Python, React, Flask, Node.js, and Prompt Engineering
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=MCA+Student+(Generative+AI);AI+%26+Machine+Learning+Developer;Building+LLM+%26+RAG+Applications;Python+Developer;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 💡 About Me
 
-### 🤖 AI Interview Coach
-AI-powered interview preparation platform with personalized interview questions, resume analysis, AI feedback, and performance evaluation.
+🎓 **Education**
+- Master of Computer Applications (Generative AI)
 
-### 🏎️ F1 AI Race Engineer
-An AI race strategist that uses LLMs, RAG, telemetry data, and intelligent agents to simulate Formula 1 race strategy.
+💼 **Role**
+- AI & Machine Learning Developer
+- Full Stack Developer
 
-### 🧠 Dream-to-Game Generator
-Transforms natural language dream descriptions into interactive AI-generated game worlds.
+💻 **Programming Languages**
+- Python
+- Java
+- JavaScript
+- SQL
 
-### 👕 Sustainable Clothing Marketplace
-A modern e-commerce platform promoting sustainable fashion with responsive UI and shopping experience.
+🤖 **Interested In**
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- NLP
+- AI Agents
+- Full Stack Development
 
----
+📚 **Currently Learning**
+- Agentic AI
+- LangChain
+- LangGraph
+- MLOps
+- Model Deployment
+- Vector Databases
 
-## 🛠️ Tech Stack
+✨ **Motto**
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
----
-
-### AI & Machine Learning
-
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-00B894?style=for-the-badge)
-
----
-
-### Frameworks
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+> Learn → Build → Deploy → Innovate 🚀
 
 ---
 
-### Databases
+# 🚀 Featured Projects
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+### 🏎️ Formula 1 AI Race Engineer
+AI-powered race strategy assistant using LLMs, RAG, weather analysis and telemetry.
 
 ---
 
-## 📈 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=Lingeshkumar24-code&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lingeshkumar24-code&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingeshkumar24-code&layout=compact&theme=tokyonight)
+### 🎤 AI Interview Coach
+Generative AI interview platform with resume analysis, voice interviews and performance feedback.
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Lingeshkumar24-code&theme=tokyonight&margin-w=15)
-
----
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/lingeshkumar24/
-- 📧 Email: lingeshkumar400@gmail.com
+### 🏥 AI Health Appointment Navigator
+AI healthcare assistant that recommends specialists and nearby hospitals from symptoms.
 
 ---
 
-## 💡 Motto
-
-> "Building AI that solves real-world problems through innovation, creativity, and continuous learning."
+### 🥗 AI Calorie Tracker
+Nutrition tracker with AI-powered meal recommendations and fitness analytics.
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Lingeshkumar24-code&label=Profile+Views&color=0e75b6&style=flat)
+### 🧠 NLP Projects
+Sentiment Analysis • Text Classification • Spam Detection • Text Summarization
+
+---
+
+### 🌱 Smart Campus Management System
+Attendance, Student Management, Faculty Portal and AI-powered analytics.
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql" />
+</p>
+
+## AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+**Generative AI**
+- LLMs
+- RAG
+- LangChain
+- LangGraph
+- Hugging Face
+- Gemini API
+- Groq API
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,flask" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
+</p>
+
+---
+
+
+
+---
+
+
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+📧 Email: **lingeshkumar400@gmail.com**
+
+💼 LinkedIn:
+https://linkedin.com/in/lingeshkumar24
+
+📸 Instagram:
+@thefierce_lingesh
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Lingeshkumar24-code&color=blueviolet)
+
+</p>
+
+<p align="center">
+
+### ⭐ "Code. Learn. Build. Innovate." ⭐
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
